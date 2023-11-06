@@ -1,1 +1,4 @@
-Contenido inicial de readme
+Pascual Martínez - 1º DAM
+
+Me llaman Abascual
+
