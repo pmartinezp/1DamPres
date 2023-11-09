@@ -1,1 +1,1 @@
-Conflicto resuelto
+Despues del conflicto
